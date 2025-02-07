@@ -1,1 +1,2 @@
 Este é un texto de proba. Estamos co Git.
+Segunda liña de texto modificado.
